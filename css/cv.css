@@ -8,5 +8,23 @@ footer{
 	color: #FFFFFF;
 }
 
+table, th, td {
+  border: 1px solid black;
+}
 
+/* #carouselExampleCaptions{
+	height: 1%;
+}
 
+.carousel-inner{
+	height: 10%;
+} */
+
+.carousel-item {
+  height: 500px;
+}
+
+.carousel-item img{
+	height: 500px;
+	/* width: 50vw; */
+}
